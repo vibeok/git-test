@@ -1,1 +1,1 @@
-print('Git bitch!')
+print("suka")
